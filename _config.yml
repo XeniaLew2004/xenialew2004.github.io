@@ -17,10 +17,11 @@ photo: assets/images/home/photo.jpg
 
 # social media links
 social:
-  facebook: /people/Xenia-Lew/
+  facebook: people/Xenia-Lew/
   github: XeniaLew2004
-  instagram: kaylanx
+  instagram: l.liuxinyao
   x: XeniaLew2004
+  weibo: u/7440817913
 
 # build settings
 permalink: pretty
