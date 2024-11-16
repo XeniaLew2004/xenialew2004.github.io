@@ -1,0 +1,31 @@
+title: Andy Kayley
+description: A digital enthusiast, but also likes transportation
+baseurl: ""
+url: https://xenialew2004.github.io
+# theme: cvless
+remote_theme: piazzai/cvless
+
+# site settings
+taglong: A digital enthusiast, but also likes transportation
+tagshort: digital enthusiast,transportation
+
+# author settings
+author:
+  name: Xenia Lew
+  email: xenialew@outlook.com
+photo: assets/images/home/photo.jpg
+
+# social media links
+social:
+  facebook: XeniaLew2004
+  github: XeniaLew2004
+  instagram: kaylanx
+  linkedin: andykayley
+  stackoverflow: 3332876/kaylanx
+  x: XeniaLew2004
+
+# build settings
+permalink: pretty
+
+plugins:
+  - jekyll-feed
