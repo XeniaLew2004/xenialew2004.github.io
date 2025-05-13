@@ -17,12 +17,12 @@ photo: assets/images/home/photo.jpg
 
 # social media links
 social:
-  youtube: @xenialew
-  facebook: profile.php?id=100091982108465
-  github: XeniaLew2004
-  instagram: l.liuxinyao
-  x: XeniaLew2004
-  mall: xliu28308@gmail.com
+  youtube:@xenialew
+  facebook:profile.php?id=100091982108465
+  github:XeniaLew2004
+  instagram:l.liuxinyao
+  x:XeniaLew2004
+  mall:xliu28308@gmail.com
 
 # build settings
 permalink: pretty
